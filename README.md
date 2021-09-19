@@ -2,7 +2,7 @@
 
 
 # Objectives
-After complting this lab you will be able to:
+
 
 ## Understand the dataset for Chicago Public School level performance
 ## Store the dataset in an Db2 database on IBM Cloud instance
